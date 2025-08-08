@@ -1,0 +1,23 @@
+body.home {
+    background-image: url('images/jeena-background-home.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+  }
+  
+ 
+  body.home h1 {
+    color: black;
+    text-align: justify;
+    padding: 50px 20px 0 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    position: relative;
+    left: -100px; /* Moves it 20px to the left */
+  }
+  
+   
+    
